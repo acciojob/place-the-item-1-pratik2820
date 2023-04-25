@@ -18,7 +18,7 @@
 	height:80px;
 	font-size:40px;
 }
-.container{
+.holder{
 	display:flex;
 	justify-content:space-between;
 	flex-wrap:wrap;
